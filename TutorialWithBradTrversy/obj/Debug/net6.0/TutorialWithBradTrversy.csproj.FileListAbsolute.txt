@@ -1,0 +1,15 @@
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\bin\Debug\net6.0\TutorialWithBradTrversy.exe
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\bin\Debug\net6.0\TutorialWithBradTrversy.deps.json
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\bin\Debug\net6.0\TutorialWithBradTrversy.runtimeconfig.json
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\bin\Debug\net6.0\TutorialWithBradTrversy.dll
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\bin\Debug\net6.0\TutorialWithBradTrversy.pdb
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\TutorialWithBradTrversy.csproj.AssemblyReference.cache
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\TutorialWithBradTrversy.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\TutorialWithBradTrversy.AssemblyInfoInputs.cache
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\TutorialWithBradTrversy.AssemblyInfo.cs
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\TutorialWithBradTrversy.csproj.CoreCompileInputs.cache
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\TutorialWithBradTrversy.dll
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\refint\TutorialWithBradTrversy.dll
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\TutorialWithBradTrversy.pdb
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\TutorialWithBradTrversy.genruntimeconfig.cache
+C:\C#\repos\TutorialWithBradTrversy\TutorialWithBradTrversy\obj\Debug\net6.0\ref\TutorialWithBradTrversy.dll
